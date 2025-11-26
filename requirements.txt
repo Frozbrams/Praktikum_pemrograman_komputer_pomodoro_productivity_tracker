@@ -1,0 +1,23 @@
+# Pomodoro CLI - Python Dependencies
+# Install with: pip install -r requirements.txt
+
+# No external dependencies required for core functionality!
+# All used libraries are part of Python standard library:
+# - json (built-in)
+# - os (built-in)
+# - time (built-in)
+# - datetime (built-in)
+# - platform (built-in)
+# - subprocess (built-in)
+# - collections (built-in)
+
+# Optional dependencies for enhanced features:
+
+# For Windows notifications (optional, only if system notifications don't work)
+# plyer>=2.0.0
+
+# For colored terminal output on Windows (optional, colors work without this on Unix)
+# colorama>=0.4.6
+
+# Note: This project is designed to work with Python 3.6+ 
+# and requires NO external dependencies for basic functionality!
